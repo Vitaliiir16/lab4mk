@@ -3,7 +3,7 @@ It allows users to choose and customize various lighting effects via a web inter
 with status displayed on an OLED screen.
 
 Project Setup:
-1) Clone the Repository:
+1)  Clone the Repository:
 Download or clone this repository to your local machine.
 
 2)Circuit Assembly:
