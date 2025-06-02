@@ -6,7 +6,7 @@ Project Setup:
 1)  Clone the Repository:
 Download or clone this repository to your local machine.
 
-2)Circuit Assembly:
+2) Circuit Assembly:
 Connect the components as follows:
 OLED Display (I2C):
 SDA -> ESP8266 D2 (GPIO4)
@@ -29,7 +29,7 @@ Button 2 (Change Parameter/Speed):
 One terminal -> ESP8266 D4 (GPIO2)
 Other terminal -> ESP8266 GND
 
-3)Upload the Sketch:
+3) Upload the Sketch:
 Upload the sketch located in the ESP8266_LED_FX_Web_Modular folder (the .ino file and its accompanying .h and .cpp files)
 to your ESP8266 board using the Arduino IDE or a compatible programmer. Ensure you have configured your Wi-Fi credentials in the config.h file.
 
